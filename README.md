@@ -2,7 +2,7 @@
 ## Lab 2
 
 ### App Description
-The user can create there own flashcard with the add button. 
+The user can create their own flashcard with the add button. 
 
 ### App Walk-though
 
