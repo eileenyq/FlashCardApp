@@ -20,6 +20,7 @@ public class AddCardActivity extends AppCompatActivity {
         findViewById(R.id.saveBtn).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 Intent data = new Intent(); // create a new Intent, this is where we will put our data
                 String questionString = ((EditText) findViewById(R.id.questionTextField)).getText().toString();
                 String answerString = ((EditText) findViewById(R.id.answerTextField)).getText().toString();

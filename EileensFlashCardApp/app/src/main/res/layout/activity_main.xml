@@ -28,4 +28,13 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:src="@drawable/icon_add" />
+
+    <ImageView
+        android:id="@+id/nextBtn"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/icon_next" />
+
 </RelativeLayout>
