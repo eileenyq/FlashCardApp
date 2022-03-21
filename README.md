@@ -5,7 +5,7 @@
 The user can create more flashcards and browse through them. 
 
 ### App Walk-though
-<img src="https://recordit.co/y2HrG7l7Um" width=200><br>
+<img src="https://media.giphy.com/media/JNpGNKhskw8Kr7zp04/giphy.gif" width=200><br>
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
 - [X] User can create muliple cards and browse through all created cards
