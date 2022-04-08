@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="@color/teal_200"
     tools:context=".MainActivity">
 
     <TextView
@@ -10,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
+        android:textColor="@color/black"
         android:text="Who is the 44th President of the United States?"
         android:textSize="40sp" />
 
@@ -18,6 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
+        android:textColor="@color/purple_700"
         android:text="Barack Obama"
         android:textSize="40sp" />
 
@@ -35,6 +39,10 @@
         android:layout_height="60dp"
         android:layout_alignParentRight="true"
         android:layout_marginTop="200dp"
-        android:src="@drawable/icon_next" />
+        android:src="@drawable/icon_next"
+        android:background="@color/purple_200"
+        />
+
+
 
 </RelativeLayout>
